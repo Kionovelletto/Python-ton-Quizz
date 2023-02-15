@@ -46,7 +46,7 @@ for pergunta in perguntas:
         qtd_acertos += 1
         print('Correto 🟢')
     else:
-        print('Errado 🔴')
+        print('Incorreto 🔴')
 
     print()
 
