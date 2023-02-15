@@ -19,6 +19,7 @@ perguntas = [
 
 qtd_acertos = 0
 for pergunta in perguntas:
+    print()
     print('Pergunta:', pergunta['Pergunta'])
     print()
 
