@@ -1,4 +1,4 @@
- ,;m,.;,# Simple-Python-Quizz
+# Simple-Python-Quizz
 
 ![image](https://user-images.githubusercontent.com/15057595/218906163-e54d400e-179c-459f-8f80-ff49525c4db9.png)
 
