@@ -1,15 +1,15 @@
-# Simple-Python-Quizz
+ ,;m,.;,# Simple-Python-Quizz
 
 ![image](https://user-images.githubusercontent.com/15057595/218906163-e54d400e-179c-459f-8f80-ff49525c4db9.png)
 
-## Feature
+## Build image container
 
--Primeiramente contrua a imagem do sistema quizz:
+- Primeiramente contrua a imagem do sistema quizz:
 ```docker
 docker build -t simple-python-quizz:0.0.1 .
 ```
 
--Após o build, execute o container e reponda ao quizz:
+- Após o build, execute o container e reponda ao quizz:
 ```docker
 docker run -it simple-python-quizz:0.0.1
 ```
