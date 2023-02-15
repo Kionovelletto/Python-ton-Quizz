@@ -6,7 +6,7 @@ Sistema simplório de quizz, utilizado em estudos.
 
 ## Build image container 🐋
 
-- ⚙️ Primeiramente contrua a imagem do sistema quizz:
+- ⚙️ Primeiramente construa a imagem do sistema quizz:
 ```container
 docker build -t simple-python-quizz:0.0.1 .
 ```
